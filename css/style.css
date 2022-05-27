@@ -1,0 +1,139 @@
+body {
+    background-color: rgb(195, 210, 223);
+}
+
+.nav {
+    margin-top: -4px;
+    background-color: white;
+    overflow: hidden;
+}
+
+.nav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 13px 20px;
+    font-size: 17px;
+    text-decoration: none;
+    font-family: Arial;
+}
+
+.nav a:hoover {
+    background-color: red;
+    color: blue;
+}
+
+.nav a.active {
+    background-color: white;
+    color: black;
+}
+
+#img_1 {
+    margin-top: -42px;
+    margin-left: 10px;
+    float: left;
+    height: 38px;
+    width: 45px;
+}
+
+.bckg_img {
+    padding-top: 5px;
+    background: url(../imgs/laptop-computer-dark-room.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: auto;
+    height: 530px;
+    text-align: center;
+}
+
+.h1_text h1 {
+    font-family: Arial;
+    font-size: 30px;
+    padding: 70px;
+    color: black;
+}
+
+.h1_text h6 {
+    margin-top: -90px;
+    font-family: Arial;
+    font-size: 13px;
+    color: black;
+}
+
+.section_under_the_image {
+    background-color: white;
+    width: auto;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.section_under_the_image h1 {
+    padding-top: 10px;
+    font-family: Arial;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.section_under_the_image p {
+    font-family: Arial;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+
+
+#img_1_section {
+    margin-left: 10px;
+    margin-right: 50px;
+    text-align: left;
+    height: 130px;
+    width: 200px;
+}
+
+#img_2_section {
+    height: 130px;
+    width: 200px;
+}
+
+.contact_section_under_the_image {
+    text-align: center;
+    background-color: white;
+    width: auto;
+    height: 100px;
+}
+
+.contact_section_under_the_image h1 {
+    padding-top: 10px;
+    font-family: Arial;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.contact_section_under_the_image p {
+    font-family: Arial;
+    text-align: justify;
+    margin-left: 10px;
+
+}
+
+
+#img_4_section {
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+#img_5_section {
+    padding-left: 10px;
+    height: 38px;
+    width: 40px;
+}
+
+#img_6_section {
+    padding-left: 10px;
+    height: 40px;
+    width: 40px;
+}
